@@ -10,7 +10,10 @@ git clone https://github.com/Zhuyuan0907/Re-YouTube
 cd Re-Youtube
 ```
 ```
-./youtube-download.sh
+chmod +x youtube-downloader.sh
+```
+```
+./youtube-downloader.sh
 ```
 enjoy!，享受開始刷Google流量的過程
 # 注意事項
