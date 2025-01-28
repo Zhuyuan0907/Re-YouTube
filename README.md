@@ -7,7 +7,7 @@ git clone https://github.com/Zhuyuan0907/Re-YouTube
 ```
 進入該資料夾，並且給這script權限
 ```
-cd Re-Youtube
+cd Re-YouTube
 ```
 ```
 chmod +x youtube-downloader.sh
