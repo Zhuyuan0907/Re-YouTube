@@ -17,8 +17,8 @@ chmod +x youtube-downloader.sh
 ```
 enjoy!，享受開始刷Google流量的過程
 # 注意事項
-使用這個腳本前，請注意你需要有充足的硬碟容量去下載你所選取的影片
-該腳本優先使用IPv6進行下載，當系統檢測不到IPv6環境才會切換至IPv4下載
-該腳本只用於學術使用，請勿用來濫用
+使用這個腳本前，請注意你需要有充足的硬碟容量去下載你所選取的影片  
+該腳本優先使用IPv6進行下載，當系統檢測不到IPv6環境才會切換至IPv4下載  
+該腳本只用於學術使用，請勿用來濫用  
 # 成果展示
 ![image](https://github.com/user-attachments/assets/6da42ea8-4f78-47ca-a858-0ef75eea0afc)
